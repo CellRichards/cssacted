@@ -1,0 +1,1 @@
+# cssacted Hello, I'm just using this to host my shitty alterations to talented people's CSS. I don't even know how to do it right, but I'm wondering if creating a README might help. Lord knows I've read enough of them (yeah I'm that guy)
